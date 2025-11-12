@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yiran Wang
-I'm a postdoctoral associate at [YSPH](https://ysph.yale.edu/), mainly working on mediation analysis and Bayesian inference. I obtained my Ph.D. in Statistics at [UWaterloo](https://uwaterloo.ca), M.S. in Statistics at [UCIrvine](https://www.stat.uci.edu/) , and B.S. in Statistics at [DHU](https://english.dhu.edu.cn/).
+I was a postdoctoral associate at [YSPH](https://ysph.yale.edu/), mainly working on mediation analysis and Bayesian inference. I obtained my Ph.D. in Statistics at [UWaterloo](https://uwaterloo.ca), M.S. in Statistics at [UCIrvine](https://www.stat.uci.edu/) , and B.S. in Statistics at [DHU](https://english.dhu.edu.cn/).
 
 
 Skills: R/Unix shell scripting/SQL/Python/SAS/JAVA
